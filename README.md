@@ -1,5 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="Yash Maheshwari's GitHub profile" src="dark_mode.svg">
-</picture>
+## GitHub Stats
+
+<!-- PROFILE_STATS_START -->
+
+<!-- PROFILE_STATS_END -->
